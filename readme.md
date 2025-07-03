@@ -1,1 +1,0 @@
-This is a project to test and refresh my HTML knowledge.
